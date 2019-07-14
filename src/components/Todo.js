@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Todo = () => 'Hello world!';
+const Todo = () => (<li></li>);
 
 export default Todo;
